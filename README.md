@@ -33,7 +33,7 @@ end
 
 Then to capitalize a given country e.g. Ghana, run:
 
-```my_capital = Capitalize.new.capitalize("Ghana")```
+my_capital = Capitalize.new.capitalize("Ghana")
 
 
 
