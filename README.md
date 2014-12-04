@@ -24,11 +24,13 @@ In the controller or module where you need to print a capital city, simply requi
 
 e.g.
 
-```require 'capitalize'
+
+```
+require 'capitalize'
 
 class GameController < ApplicationController
 end
-```
+
 Then to capitalize a given country e.g. Ghana, run:
 
 ```my_capital = Capitalize.new.capitalize("Ghana")```

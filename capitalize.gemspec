@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ten Mutunhire"]
   spec.email         = ["tmutunhire@gmail.com"]
   spec.summary       = %q{Gem to give the capital of a specified nation}
-  spec.description   = %q{First, require Capitalize. Then call like this: my_capital = Capitalize::capitalize("Ghana") , for instance}
+  spec.description   = %q{https://github.com/tranc99/capitalize-gem   First, require Capitalize. Then call like this: my_capital = Capitalize.new.capitalize("Ghana") , for instance}
   spec.homepage      = ""
   spec.license       = "MIT"
 
