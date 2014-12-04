@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Capitalize::VERSION
   spec.authors       = ["Ten Mutunhire"]
   spec.email         = ["tmutunhire@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Gem to give the capital of a specified nation}
+  spec.description   = %q{First, require Capitalize. Then call like this: my_capital = Capitalize::capitalize("Ghana") , for instance}
   spec.homepage      = ""
   spec.license       = "MIT"
 
